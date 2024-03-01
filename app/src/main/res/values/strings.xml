@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SMS</string>
+    <string name="activity1">Activity1</string>
+    <string name="Button1" />
+    <string name="activity2">Activity2</string>
+    <string name="click" />
+</resources>
